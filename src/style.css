@@ -1,0 +1,29 @@
+.card-action {
+    position: relative;
+    float: right;
+    margin-top: -25px;
+    margin-right: 20px;
+    z-index: 2;
+    color: #E26D5C;
+    background: #fff;
+    border-radius: 100%;
+    padding: 15px;
+    font-size: 15px;
+}
+
+.card-title {
+    margin-top: -45px;
+    margin-left: 80px;
+    font-size: 25px;
+}
+
+.bintang {
+    /* margin-left: 70px; */
+    margin-left: 25px;
+    margin-bottom: 30px;
+    
+}
+
+/* .containers {
+    font-size: 25px;
+} */
